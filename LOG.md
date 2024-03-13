@@ -15,3 +15,9 @@ The goal is to complete the basics this week - Linux CLI, HTML, CSS, JS and buil
 Continued with Linux CLI. I learned a tiny bit about shells & basic shell commands.
 
 On my way to learn the basics of shell scripting tomorrow. Should also start with HTML and CSS basics.
+
+### Day 3: March 13, 2024
+
+Completed Fundamentals of Linux CLI. Today was all about `nano` and Shell Scripting. Discovered `top` and `htop`, and I learnt how to kill a process in Linux.
+
+(deleted vscode to set it up properly, so writing this in nano lol)
