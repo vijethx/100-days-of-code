@@ -21,3 +21,7 @@ On my way to learn the basics of shell scripting tomorrow. Should also start wit
 Completed Fundamentals of Linux CLI. Today was all about `nano` and Shell Scripting. Discovered `top` and `htop`, and I learnt how to kill a process in Linux.
 
 (deleted vscode to set it up properly, so writing this in nano lol)
+
+### Day 4: March 14, 2024
+
+Yet another slow day. Didn't get to do much. Spent some time setting up & (slightly) customizing vscode. Will spend the rest of the day going through my prev notes.
