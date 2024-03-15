@@ -28,4 +28,4 @@ Yet another slow day. Didn't get to do much. Spent some time setting up & (sligh
 
 ### Day 5: March 15, 2024
 
-Building a website for a friend couple weeks ago. A landing page w/ React (Vite) and Tailwind CSS. Should be completed with the MVP by tomorrow.
+Took up a website gig for a friend a couple of weeks ago. A landing page w/ React (Vite) and Tailwind CSS. Should be completed with the MVP by tomorrow.
