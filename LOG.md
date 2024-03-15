@@ -25,3 +25,7 @@ Completed Fundamentals of Linux CLI. Today was all about `nano` and Shell Script
 ### Day 4: March 14, 2024
 
 Yet another slow day. Didn't get to do much. Spent some time setting up & (slightly) customizing vscode. Will spend the rest of the day going through my prev notes.
+
+### Day 5: March 15, 2024
+
+Building a website for a friend couple weeks ago. A landing page w/ React (Vite) and Tailwind CSS. Should be completed with the MVP by tomorrow.
