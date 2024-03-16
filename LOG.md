@@ -29,3 +29,11 @@ Yet another slow day. Didn't get to do much. Spent some time setting up & (sligh
 ### Day 5: March 15, 2024
 
 Took up a website gig for a friend a couple of weeks ago. A landing page w/ React (Vite) and Tailwind CSS. Should be completed with the MVP by tomorrow.
+
+### Day 6: March 16, 2024
+
+I didn't do anything today. Watched anime, slept for a couple hours and did some house chores.
+This shall be my final rest day for now.
+Before I go to sleep, I plan to watch these two videos
+(A) [CS50 Seminars 2023 - How To Use Git and GitHub](https://www.youtube.com/watch?v=cspx7YSvp5Q)
+(B) [The Basics of Web3](https://www.youtube.com/watch?v=L57DNTdR7y0)
