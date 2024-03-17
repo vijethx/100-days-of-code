@@ -37,3 +37,9 @@ This shall be my final rest day for now.
 Before I go to sleep, I plan to watch these two videos
 (A) [CS50 Seminars 2023 - How To Use Git and GitHub](https://www.youtube.com/watch?v=cspx7YSvp5Q)
 (B) [The Basics of Web3](https://www.youtube.com/watch?v=L57DNTdR7y0)
+
+### Day 7: March 17, 2024
+
+Started picking up pace. Worked a bit on the website I was building for a friend. Should be done with the basic structure (w/ dummy content) in a couple of days.
+
+The current week's focus is on learning HTML, CSS and JavaScript, in-depth if possible and building a couple of projects along the way.
