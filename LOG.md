@@ -43,3 +43,7 @@ Before I go to sleep, I plan to watch these two videos
 Started picking up pace. Worked a bit on the website I was building for a friend. Should be done with the basic structure (w/ dummy content) in a couple of days.
 
 The current week's focus is on learning HTML, CSS and JavaScript, in-depth if possible and building a couple of projects along the way.
+
+### Day 8: March 18, 2024
+
+Late start to the day. Will spend an hour or two working on the website I'm building.
