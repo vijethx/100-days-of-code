@@ -47,3 +47,11 @@ The current week's focus is on learning HTML, CSS and JavaScript, in-depth if po
 ### Day 8: March 18, 2024
 
 Late start to the day. Will spend an hour or two working on the website I'm building.
+
+### Day 9: March 20, 2024
+
+Completed the bare bones of the website I was building. Awaiting changes & content updates.
+
+### Day 10: March 22, 2024
+
+Started learning webdev basics from https://web.dev/learn
