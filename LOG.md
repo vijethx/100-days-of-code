@@ -55,3 +55,7 @@ Completed the bare bones of the website I was building. Awaiting changes & conte
 ### Day 10: March 22, 2024
 
 Started learning webdev basics from https://web.dev/learn
+
+### Day 11: March 23, 2024
+
+Still on it.
